@@ -1,4 +1,4 @@
-# Amazon Managed Blockchain Workshop
+# AHS - Amazon Managed Blockchain Workshop
 
 ![Amazon Managed Blockchain](images/AmazonManagedBlockchain.png "Amazon Managed Blockchain")
 
